@@ -1,0 +1,4 @@
+0001|No2|20:00|22:30|Petak,Subota,Nedelja|Star Wars:Poslednji Dzedaji|300
+0002|No4|19:00|20:29|Ponedeljak,Utorak|Strumpfovi:Izgubljeno selo|300
+0003|No1|21:00|22:30|Cetvrtak,Petak|The Books of Knjige:Slucajevi pravde|300
+0004|No3|19:30|22:28|Subota,Nedelja|The Lord of the rings|300
